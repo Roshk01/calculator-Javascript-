@@ -1,0 +1,27 @@
+input {
+  background: rgb(186, 75, 75);
+  color: white;
+  width: 97%;
+  height: 35px;
+  align-items: center;
+  border-radius: 20px;
+}
+input:active {
+  color: black;
+  background: grey;
+}
+table {
+  border-color: rgb(3, 4, 6);
+}
+tr {
+  background: black;
+}
+.title {
+  font-weight: bold;
+  font-size: xx-large;
+  margin: 20px auto;
+}
+.title:hover {
+  color: firebrick;
+  border: black;
+}
